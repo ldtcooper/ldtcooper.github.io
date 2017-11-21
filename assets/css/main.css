@@ -2749,6 +2749,11 @@
 					width: 100%;
 				}
 
+				.features article .image .snack-academy {
+					width: 169px;
+					margin: auto;
+				}
+
 		@media screen and (max-width: 980px) {
 
 			.features article {
