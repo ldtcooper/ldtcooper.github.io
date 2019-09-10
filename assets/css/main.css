@@ -2749,12 +2749,6 @@
 					width: 100%;
 				}
 
-				/* Added this to keep snack academy gif the correct size */
-				.features article .image .snack-academy {
-					width: 169px;
-					margin: auto;
-				}
-
 		@media screen and (max-width: 980px) {
 
 			.features article {
