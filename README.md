@@ -1,5 +1,5 @@
 # What is this?
-This repo is where my personal portfolio site lives. Check it out [here](logan-cooper.com).
+This repo is where my personal portfolio site lives. Check it out [here](https://www.logan-cooper.com/).
 
 It's built with...
 
